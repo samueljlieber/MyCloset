@@ -1,0 +1,4 @@
+My Closet - Needs Assessment
+
+Description:
+The My Closet web application will allow the user to create a virtual library of their personal attire.  The web application will offer the ability to view outfits, mix and match, save favorites, and "try on" outfits.  The web application will have user accounts that are safe and secure.  The application will be accessible on all devices that connect to a web browser.  The application will be accessible to at least WCAG AA.
