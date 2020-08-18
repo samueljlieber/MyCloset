@@ -16,4 +16,5 @@ Needs:
 - To be fast and responsive
 
 Wants:
-- To 
+- To utilize Augmented Reality to "wear" the outfit
+- To screen-shot outfits while "wearing" them
