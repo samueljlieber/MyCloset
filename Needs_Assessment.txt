@@ -1,4 +1,19 @@
 My Closet - Needs Assessment
 
+Problem:
+There is a need to be able to virtually view one's individual outfits to make efficient desicions when getting dressed.
+
 Description:
-The My Closet web application will allow the user to create a virtual library of their personal attire.  The web application will offer the ability to view outfits, mix and match, save favorites, and "try on" outfits.  The web application will have user accounts that are safe and secure.  The application will be accessible on all devices that connect to a web browser.  The application will be accessible to at least WCAG AA.
+The My Closet web application will allow the user to create a virtual library of their personal attire.  The web application will offer the ability to view outfits, mix and match, save favorites, and "try on" outfits.  The web application will have user accounts that are safe and secure.  The application will be accessible on all devices that connect to a web browser.  The application will be accessible to at least WCAG AA. 
+
+Needs:
+- To be accessible on mobile
+- To be responsive and easy to use
+- To be able to handle CRUD functionality
+- To be able to authenticate users
+- To be appropriatly safe and secure
+- To be reletivly customozable
+- To be fast and responsive
+
+Wants:
+- To 
